@@ -38,7 +38,7 @@ def calculator():
 
     while to_continue:
 
-        operations_symbol = input("Pick an operation: ")
+        operations_symbol = input("Pick an operation from:' +': add,'-': subtract, '/': divide, '*': multiply, ")
         num2 = float(input("What is the next number?: "))
         calculation_function = operations[operations_symbol]
         answer = calculation_function(num1, num2)
