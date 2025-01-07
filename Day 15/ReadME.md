@@ -8,6 +8,6 @@ The program implements a command-line interface that guides users through the co
 
 * Beverage selection (espresso/latte/cappuccino)
 * Coin insertion with denominations breakdown
-*Order confirmation with ingredient details
-*Result reporting with either success message or resource shortage notification
+* Order confirmation with ingredient details
+* Result reporting with either success message or resource shortage notification
 * Machine power control option
