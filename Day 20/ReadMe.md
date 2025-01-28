@@ -1,5 +1,3 @@
-
-```markdown
 # Snake Game 🐍
 
 A classic Snake game implemented using Python's Turtle module. Guide the snake to eat food, grow longer, and avoid collisions with walls and yourself. High scores are saved between sessions!
